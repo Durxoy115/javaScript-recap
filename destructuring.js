@@ -20,3 +20,5 @@ const employee = {
         drink: 'watter'
     }
 }
+const employee1 = employee.designation;
+console.log(employee1);
